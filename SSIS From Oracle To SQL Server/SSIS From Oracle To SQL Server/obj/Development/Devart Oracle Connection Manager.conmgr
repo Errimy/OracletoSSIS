@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Devart Oracle Connection Manager"
+  DTS:DTSID="{264FE76A-98B0-4538-A5F6-C8AF9DC74071}"
+  DTS:CreationName="DevartOracle">
+  <DTS:ObjectData>
+    <OracleConnectionManager
+      ConnectByProxy="False">
+      <ConnectionString>User Id=hr;Server=localhost;Direct=True;Persist Security Info=True</ConnectionString>
+      <Password
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhbPHzrrt4ECyR7ICYeipXgAAAAACAAAAAAAQZgAAAAEAACAAAAAYRhuzfgCwERk7J+WVVgxe2IqPKen/5ZBKc748qCy8zQAAAAAOgAAAAAIAACAAAAC/5xHIZcUcg+eH7maUsa+3ZXov1SzBbp5cE4yfPqD8HzAAAAD/ID/Qn28XFsmlTNkNZnMwNaOKnycLSbtCfbdnwLGoiihvXyROysqCdTB0l5DImdxAAAAAMP3xpGv/F1Z53YfbZ7hr5cbQ08E2oeXiIqdRrR0TJJZLEIUmH4pEKxV4gMeqRKxwE+QRozn8hENPYHToeXQWBg==</Password>
+    </OracleConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
